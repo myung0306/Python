@@ -1,3 +1,4 @@
+#초보자를 위한 파이썬 300제
 a = input()
 if a.isupper():
     print(a.lower())
