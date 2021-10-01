@@ -1,3 +1,5 @@
+#초보자를 위한 파이썬 300제
+
 for i in range(1, 10):
     print("3*%d = %d" % (i, 3*i))
 print("\n")

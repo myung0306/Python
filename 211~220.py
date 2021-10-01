@@ -1,3 +1,5 @@
+#초보자를 위한 파이썬 300제
+
 def print_coin():
     print("비트코인")
 print_coin()

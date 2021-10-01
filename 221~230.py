@@ -1,3 +1,5 @@
+#초보자를 위한 파이썬 300제
+
 def n_plus_1(n):
     result = n + 1
     return result

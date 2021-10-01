@@ -1,3 +1,5 @@
+#초보자를 위한 파이썬 300제
+
 def print_coin():
     for i in range(1, 101):
         print(i, "비트코인")

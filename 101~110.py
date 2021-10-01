@@ -1,3 +1,5 @@
+#초보자를 위한 파이썬 300제
+
 print(type(True), type(False))
 print(3==5)
 print(3<5)
